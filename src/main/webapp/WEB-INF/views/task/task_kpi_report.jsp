@@ -1,0 +1,1 @@
+<%@ page contentType="text/html; charset=UTF-8" %><!DOCTYPE html><html><body><h3>Báo cáo KPI</h3><canvas id="kpiChart"></canvas><script src="https://cdn.jsdelivr.net/npm/chart.js"></script></body></html>
